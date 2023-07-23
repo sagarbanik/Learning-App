@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "478101061744",
+    "project_id": "ulearning-app-7d304",
+    "storage_bucket": "ulearning-app-7d304.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478101061744:android:3fc074a4e898ce091c34b5",
+        "android_client_info": {
+          "package_name": "com.jetsofttechnologies.ulearning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhnpl5s3GQAlPl_sDFUdC4Br6PHS2lY9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
